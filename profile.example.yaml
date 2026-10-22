@@ -1,0 +1,28 @@
+# TEMPLATE: replace empty values with your own facts; never invent credentials.
+identity:
+  legal_first_name: ""
+  middle_name: ""
+  legal_last_name: ""
+  preferred_name: ""
+  email: ""
+  phone: ""
+  address: ""
+  city: ""
+  country: ""
+  linkedin_url: ""
+  github_url: ""
+experience: [] # employer, title, start/end dates, verified achievements
+education: []
+skills: []
+languages: []
+preferences:
+  roles: []
+  locations: []
+  remote_preference: ""
+  salary_currency: ""
+  minimum_total_cash: null
+  target_total_cash: null
+eligibility:
+  work_authorization: ""
+  sponsorship_required: null
+  availability: ""

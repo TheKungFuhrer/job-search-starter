@@ -1,0 +1,16 @@
+# TEMPLATE: empty/null means unanswered. Confirm per country and posting.
+work_authorization: ""
+sponsorship_required: null
+notice_period: ""
+salary_expectations: ""
+relocation: ""
+reason_for_leaving: ""
+employment_gaps: ""
+may_contact_employers: null
+eeo:
+  gender: ""
+  race_ethnicity: ""
+  disability: ""
+  veteran_status: ""
+screening_answers: [] # question, truthful answer, supporting source
+star_stories: [] # situation, task, action, result; use your own examples
